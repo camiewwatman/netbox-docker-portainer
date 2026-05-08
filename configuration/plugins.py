@@ -5,7 +5,7 @@
 # See https://github.com/netbox-community/netbox-docker/wiki/Using-Netbox-Plugins
 
 # PLUGINS = ["netbox_bgp"]
-PLUGINS = ["netbox_proxbox"]
+PLUGINS = ["netbox_proxbox","netbox_topology_views"]
 
 # PLUGINS_CONFIG = {
 #   "netbox_bgp": {
